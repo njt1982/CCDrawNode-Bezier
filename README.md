@@ -25,3 +25,4 @@ CCDrawNode *node = [CCDrawNode node];
 [self addChild:node];
 ```
 
+![Example Output](https://raw.githubusercontent.com/njt1982/CCDrawNode-Bezier/master/example.png)
